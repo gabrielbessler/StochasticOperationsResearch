@@ -1,3 +1,5 @@
+## Warning: This is possibly the least efficient and most spaghetti implementation of the algorithm every made. Enter at your own risk.
+
 This is a basic implementation of a generalization of the backwards induction algorithm 
 to find subgame-perfect Nash equilibria (SPNE) in complete extensive form dynamic games.
 
